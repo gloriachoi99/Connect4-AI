@@ -1,0 +1,255 @@
+In [1]: runfile('C:/Users/gchoi/.spyder-py3/connect4.py', wdir='C:/Users/gchoi/.spyder-py3')
+
+In [2]: tetris = TetrisBoard(5,5)
+
+In [3]: tetris.hostGame()
+Welcome to Connect Four!
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+-----------
+ 0 1 2 3 4
+
+X's choice: 3
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |X| |
+-----------
+ 0 1 2 3 4
+Computer chooses column:  4
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |X|O|
+-----------
+ 0 1 2 3 4
+
+X's choice: 4
+| | | | | |
+| | | | | |
+| | | | | |
+| | | | |X|
+| | | |X|O|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  3
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O|X|
+| | | |X|O|
+-----------
+ 0 1 2 3 4
+
+X's choice: 2
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O|X|
+| | |X|X|O|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  3
+| | | | | |
+| | | | | |
+| | | |O| |
+| | | |O|X|
+| | |X|X|O|
+-----------
+ 0 1 2 3 4
+
+X's choice: 1
+| | | | | |
+| | | | | |
+| | | |O| |
+| | | |O|X|
+| |X|X|X|O|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  0
+| | | | | |
+| | | | | |
+| | | |O| |
+| | | |O|X|
+|O|X|X|X|O|
+-----------
+ 0 1 2 3 4
+
+X's choice: 2
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O| |
+| | |X|O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  0
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O| |
+|O| |X|O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 1
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O| |
+|O|X|X|O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  3
+| | | | | |
+| | | | | |
+| | | | | |
+| | | |O| |
+| | | |O| |
+-----------
+ 0 1 2 3 4
+
+X's choice: 3
+| | | | | |
+| | | | | |
+| | | |X| |
+| | | |O| |
+| | | |O| |
+-----------
+ 0 1 2 3 4
+Computer chooses column:  3
+| | | | | |
+| | | |O| |
+| | | |X| |
+| | | |O| |
+| | | |O| |
+-----------
+ 0 1 2 3 4
+
+X's choice: 4
+| | | | | |
+| | | |O| |
+| | | |X| |
+| | | |O| |
+| | | |O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  3
+| | | |O| |
+| | | |O| |
+| | | |X| |
+| | | |O| |
+| | | |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 4
+| | | |O| |
+| | | |O| |
+| | | |X| |
+| | | |O|X|
+| | | |O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  0
+| | | |O| |
+| | | |O| |
+| | | |X| |
+| | | |O|X|
+|O| | |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 1
+| | | |O| |
+| | | |O| |
+| | | |X| |
+| | | |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  4
+| | | |O| |
+| | | |O| |
+| | | |X|O|
+| | | |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 1
+| | | |O| |
+| | | |O| |
+| | | |X|O|
+| |X| |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  1
+| | | |O| |
+| | | |O| |
+| |O| |X|O|
+| |X| |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 0
+| | | |O| |
+| | | |O| |
+| |O| |X|O|
+|X|X| |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  4
+| | | |O| |
+| | | |O|O|
+| |O| |X|O|
+|X|X| |O|X|
+|O|X| |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 7
+
+Please choose a valid column number: 2
+| | | |O| |
+| | | |O|O|
+| |O| |X|O|
+|X|X| |O|X|
+|O|X|X|O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  4
+| | | |O| |
+| | | | |O|
+| | | |O|O|
+| |O| |X|O|
+|X|X| |O|X|
+-----------
+ 0 1 2 3 4
+
+X's choice: 2
+| | | |O| |
+| | | | |O|
+| | | |O|O|
+| |O| |X|O|
+|X|X|X|O|X|
+-----------
+ 0 1 2 3 4
+Computer chooses column:  4
+| | | |O| |
+| | | | |O|
+| | | | |O|
+| | | |O|O|
+| |O| |X|O|
+-----------
+ 0 1 2 3 4
+The Computer won!
+
