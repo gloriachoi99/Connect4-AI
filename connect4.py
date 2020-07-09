@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul  8 16:06:26 2020
-
-@author: gchoi
-"""
 
 #Name: Gloria Choi (in a group with Karoline Blendstrup)
 
