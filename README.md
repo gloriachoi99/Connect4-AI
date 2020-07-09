@@ -11,9 +11,9 @@ becomes full, regardless of the pieces (X's or O's) that are in that row. We cre
 ### How To Play
 When playing our game, we encourage you to use hostGame() within the TetrisBoard class (the modified class with this new rule). This will achieve our desired goal of deleting the bottom row of the board completely once it has been filled, and the corresponding rows will fall into place like gravity! 
 
-For your reference, you can find a demo of an example game [here](demo.jpg). In this game, I have specified a 5 x 5 board. 
+For your reference, you can find a demo of an example game [here](demo). 
 
-For those who may be unfamiliar with calling methods in a class, you can find an example of how to start the game using the command line output [here](examplecommandline.txt). When initializing the board, you must specify the width and height of the board which you wish to play on.
+For those who may be unfamiliar with calling methods in a class, the first three lines of the demo show an example of how to start the game using the command line output. When initializing the board, you must specify the width and height of the board which you wish to play on. In the demo, I used a 5 x 5 board. 
 
 \
 Happy playing!
