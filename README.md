@@ -1,5 +1,5 @@
 # Connect4-AI
-This was the final project for Harvey Mudd College's CS 5 (Introduction to CS) in Spring 2018.
+This was the final project for Harvey Mudd College's CS 5 (Introduction to Computer Science) in Spring 2018.
 
 ### About
 With the help of the CS5 grutors and Professor Geoff Kuenning, my classmate, Karoline, and I created a Python program that allows a human to play Connect4 with an AI opponent. We created several methods based on what our instinctual reactions to an opponent's move would be. For example, if an opponent had three of their X's in a vertical row, the next move for the AI (and for most people) would be to block the opponent from inserting their fourth X in that row.
