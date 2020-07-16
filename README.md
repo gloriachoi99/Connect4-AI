@@ -1,4 +1,4 @@
-# Connect4-AI
+# Connect4 AI
 This was the final project for Harvey Mudd College's CS 5 (Introduction to Computer Science) in Spring 2018.
 
 ### About
